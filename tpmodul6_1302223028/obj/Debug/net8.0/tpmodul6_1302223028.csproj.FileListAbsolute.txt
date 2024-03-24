@@ -1,0 +1,15 @@
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\bin\Debug\net8.0\tpmodul6_1302223028.exe
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\bin\Debug\net8.0\tpmodul6_1302223028.deps.json
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\bin\Debug\net8.0\tpmodul6_1302223028.runtimeconfig.json
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\bin\Debug\net8.0\tpmodul6_1302223028.dll
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\bin\Debug\net8.0\tpmodul6_1302223028.pdb
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.AssemblyInfoInputs.cache
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.AssemblyInfo.cs
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.csproj.CoreCompileInputs.cache
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.sourcelink.json
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.dll
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\refint\tpmodul6_1302223028.dll
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.pdb
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\tpmodul6_1302223028.genruntimeconfig.cache
+C:\Users\Alghifari\Praktikum_KPL\tpmodul6_1302223028\tpmodul6_1302223028\obj\Debug\net8.0\ref\tpmodul6_1302223028.dll
