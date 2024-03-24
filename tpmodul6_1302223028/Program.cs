@@ -23,6 +23,7 @@ internal class Program
 
         {
             random random = new random();
+            Debug.Assert(title.Length <= 100 && title != null, "Jumlah kata melebihi batas");
             this.title = title;
             id = random.idRandom();
             playcount = 0;
@@ -33,12 +34,26 @@ internal class Program
         {
             this.playcount += playcount;
 
+            Debug.Assert(playcount <= 10000000, "Error: Jumlah playcount melebihi batas");
+            try
+            {
+                checked
+                {
+                    this.playcount = playcount;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Terjadi overflow pada penambahan play count.");
+            }
+
         }
         public void printVideoDetail()
         {
-            Console.WriteLine($"ID :  {this.id}");
-            Console.WriteLine($"JUDUL : {this.title}");
-            Console.WriteLine($"Play Count : {this.playcount} ");
+            Console.WriteLine($"id :  {this.id}");
+            Console.WriteLine($"id :  {id}");
+            Console.WriteLine($"judul : {this.title}");
+            Console.WriteLine($"Play count : {this.playcount} ");
         }
 
     }
